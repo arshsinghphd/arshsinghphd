@@ -1,6 +1,6 @@
 Hi, I’m Arsh Singh (@arshsinghphd). <br>
 I am a Micro Ecnomist turned Computer Scientist.
-I am a student of MSCS at Khoury School at Northeastern University.
+I am a student of MSCS at Khoury College at Northeastern University.
 I can be reached by email: singh.a5@northeastern.edu
 
 <!---
